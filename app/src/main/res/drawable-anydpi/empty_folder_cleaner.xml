@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_pixel" />
+    <foreground android:drawable="@drawable/tm_empty_folder_cleaner" />
+    <monochrome android:drawable="@drawable/tm_empty_folder_cleaner" />
+</adaptive-icon>

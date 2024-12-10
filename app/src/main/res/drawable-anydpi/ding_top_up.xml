@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_fiolet2" />
+    <foreground>
+        <bitmap android:src="@mipmap/ding_top_up_foreground" android:tint="@color/fg_themed_icons" />
+    </foreground>
+    <monochrome android:drawable="@mipmap/ding_top_up_foreground" />
+</adaptive-icon>

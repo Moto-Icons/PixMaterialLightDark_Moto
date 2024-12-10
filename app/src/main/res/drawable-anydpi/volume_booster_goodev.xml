@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_red" />
+    <foreground android:drawable="@drawable/tm_volume_booster_goodev" />
+    <monochrome android:drawable="@drawable/tm_volume_booster_goodev" />
+</adaptive-icon>

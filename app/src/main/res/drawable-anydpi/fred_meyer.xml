@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_red" />
+    <foreground>
+        <bitmap android:src="@mipmap/fred_meyer_foreground" android:tint="@color/fg_themed_icons" />
+    </foreground>
+    <monochrome android:drawable="@mipmap/fred_meyer_foreground" />
+</adaptive-icon>

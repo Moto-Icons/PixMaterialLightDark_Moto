@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bitmap android:src="@mipmap/hub_keyboard_foreground" android:tint="@color/fg_themed_icons"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

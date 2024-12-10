@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_github" />
+    <foreground>
+        <bitmap android:src="@mipmap/local_warfare_re_portable_foreground" android:tint="@color/fg_themed_icons" />
+    </foreground>
+    <monochrome android:drawable="@mipmap/local_warfare_re_portable_foreground" />
+</adaptive-icon>

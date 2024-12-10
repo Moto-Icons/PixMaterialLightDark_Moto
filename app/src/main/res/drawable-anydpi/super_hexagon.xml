@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_red_dark2" />
+    <foreground>
+        <bitmap android:src="@mipmap/super_hexagon_foreground" android:tint="@color/fg_themed_icons" />
+    </foreground>
+    <monochrome android:drawable="@mipmap/super_hexagon_foreground" />
+</adaptive-icon>

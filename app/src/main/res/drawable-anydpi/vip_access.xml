@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_yellow" />
+    <foreground android:drawable="@drawable/tm_vip_access" />
+    <monochrome android:drawable="@drawable/tm_vip_access" />
+</adaptive-icon>

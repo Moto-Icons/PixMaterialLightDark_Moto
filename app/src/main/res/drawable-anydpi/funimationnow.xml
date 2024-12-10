@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@color/bg_fiolet2" />
+    <foreground android:drawable="@drawable/tm_funimationnow" />
+    <monochrome android:drawable="@drawable/tm_funimationnow" />
+</adaptive-icon>
